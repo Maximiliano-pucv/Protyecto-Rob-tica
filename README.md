@@ -1,4 +1,4 @@
-# Protyecto-Robotica
+# Proyecto-Robotica
 
 ## Integrantes
 
